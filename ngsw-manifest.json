@@ -9,22 +9,22 @@
   },
   "static": {
     "urls": {
-      "https://USERNAME.github.io/techcamp-dhaka-2018/polyfills.32225f5d64cec6731cb0.bundle.js": "cbaf249c4a936f30b11549e8b5ad1534c9fa84ae",
-      "https://USERNAME.github.io/techcamp-dhaka-2018/main.c79187e437bc529622cf.bundle.js": "f734e1787e0de711d1d3fb4998fe692cdf2a9cf7",
-      "https://USERNAME.github.io/techcamp-dhaka-2018/sw-register.6819cd2c5fa25470ecf2.bundle.js": "50d549edfbd188ed199d8d0b079afa593202e3ea",
-      "https://USERNAME.github.io/techcamp-dhaka-2018/inline.89effce0d7befc8283b7.bundle.js": "e382937cdcd73ae8b9834cb3e4e5af1a86eaa27c",
-      "https://USERNAME.github.io/techcamp-dhaka-2018/styles.09afeddfb5190aa48767.bundle.css": "a32ffa007b9aeea8c800ab2e858f8e6a0b85b04b",
-      "https://USERNAME.github.io/techcamp-dhaka-2018/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-      "https://USERNAME.github.io/techcamp-dhaka-2018/manifest.json": "f5a7ec8d30de6c2326819f3bcf52b27e5935d0fa",
-      "https://USERNAME.github.io/techcamp-dhaka-2018/assets/images/icons/icon-128x128.png": "a9fdb8271e33fcaf77bf32b06e55023a6bcfa85a",
-      "https://USERNAME.github.io/techcamp-dhaka-2018/assets/images/icons/icon-152x152.png": "9fe3ade9d6383eed71988bfbdf71b23b6e3bae0e",
-      "https://USERNAME.github.io/techcamp-dhaka-2018/assets/images/icons/icon-144x144.png": "1fce38e4285b057b9833355caabc2ed38b1b5fea",
-      "https://USERNAME.github.io/techcamp-dhaka-2018/assets/images/icons/icon-192x192.png": "247aaca5dd4dac05952185e8421b1ec6aea6b59c",
-      "https://USERNAME.github.io/techcamp-dhaka-2018/assets/images/icons/icon-384x384.png": "3c8d97538a53338fa5ee0464ae6fc4988ae27dae",
-      "https://USERNAME.github.io/techcamp-dhaka-2018/assets/images/icons/icon-512x512.png": "3c8d97538a53338fa5ee0464ae6fc4988ae27dae",
-      "https://USERNAME.github.io/techcamp-dhaka-2018/assets/images/icons/icon-72x72.png": "6b398b367be1916577607750669303b1395d6164",
-      "https://USERNAME.github.io/techcamp-dhaka-2018/assets/images/icons/icon-96x96.png": "ad862398f011df6784282254efa3414a8ab5da40",
-      "https://USERNAME.github.io/techcamp-dhaka-2018/index.html": "d7fafb869e77ed0cef6c4c0bee0f5d9107c546a5"
+      "https://saadbinamjad.github.io/techcamp-dhaka-2018/polyfills.32225f5d64cec6731cb0.bundle.js": "cbaf249c4a936f30b11549e8b5ad1534c9fa84ae",
+      "https://saadbinamjad.github.io/techcamp-dhaka-2018/main.c79187e437bc529622cf.bundle.js": "f734e1787e0de711d1d3fb4998fe692cdf2a9cf7",
+      "https://saadbinamjad.github.io/techcamp-dhaka-2018/sw-register.6819cd2c5fa25470ecf2.bundle.js": "50d549edfbd188ed199d8d0b079afa593202e3ea",
+      "https://saadbinamjad.github.io/techcamp-dhaka-2018/inline.89effce0d7befc8283b7.bundle.js": "e382937cdcd73ae8b9834cb3e4e5af1a86eaa27c",
+      "https://saadbinamjad.github.io/techcamp-dhaka-2018/styles.09afeddfb5190aa48767.bundle.css": "a32ffa007b9aeea8c800ab2e858f8e6a0b85b04b",
+      "https://saadbinamjad.github.io/techcamp-dhaka-2018/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+      "https://saadbinamjad.github.io/techcamp-dhaka-2018/manifest.json": "f5a7ec8d30de6c2326819f3bcf52b27e5935d0fa",
+      "https://saadbinamjad.github.io/techcamp-dhaka-2018/assets/images/icons/icon-128x128.png": "a9fdb8271e33fcaf77bf32b06e55023a6bcfa85a",
+      "https://saadbinamjad.github.io/techcamp-dhaka-2018/assets/images/icons/icon-144x144.png": "1fce38e4285b057b9833355caabc2ed38b1b5fea",
+      "https://saadbinamjad.github.io/techcamp-dhaka-2018/assets/images/icons/icon-152x152.png": "9fe3ade9d6383eed71988bfbdf71b23b6e3bae0e",
+      "https://saadbinamjad.github.io/techcamp-dhaka-2018/assets/images/icons/icon-192x192.png": "247aaca5dd4dac05952185e8421b1ec6aea6b59c",
+      "https://saadbinamjad.github.io/techcamp-dhaka-2018/assets/images/icons/icon-384x384.png": "3c8d97538a53338fa5ee0464ae6fc4988ae27dae",
+      "https://saadbinamjad.github.io/techcamp-dhaka-2018/assets/images/icons/icon-512x512.png": "3c8d97538a53338fa5ee0464ae6fc4988ae27dae",
+      "https://saadbinamjad.github.io/techcamp-dhaka-2018/assets/images/icons/icon-72x72.png": "6b398b367be1916577607750669303b1395d6164",
+      "https://saadbinamjad.github.io/techcamp-dhaka-2018/assets/images/icons/icon-96x96.png": "ad862398f011df6784282254efa3414a8ab5da40",
+      "https://saadbinamjad.github.io/techcamp-dhaka-2018/index.html": "f5822e1e08ba98051a1d5c1a85c09d9392e368db"
     },
     "_generatedFromWebpack": true
   }
